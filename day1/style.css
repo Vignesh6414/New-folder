@@ -1,0 +1,28 @@
+h1{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+.head{
+    text-align: center;
+    justify-content: center;
+}
+.form{
+  text-align: center;
+  background-color: tomato;
+  display: inline-block;
+
+
+}
+.list{
+     color: royalblue;
+     display: inline;
+}
+.footer {
+    text-align: center;
+}
+.a:hover{
+    background-color: aqua;
+}
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
