@@ -207,7 +207,7 @@ span{
     bottom: 0;
     width: 100%;
     padding: 40px 0;
-    background-color: black;
+    background-color:black;
 }
 .footer.social{
     text-align: center;
@@ -250,7 +250,7 @@ span{
 .footer ul li a:hover{
     border-bottom: 3px solid orangered;
 }
-.footer.copyright{
+.footer-copyright{
     margin-top: 15px;
     text-align: center;
     font-size: 12px;
