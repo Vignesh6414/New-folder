@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  .video{
+    
+  }
+  
+  .logo-text-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo {
+    width: 50px; /* Adjust the size as needed */
+    height: 50px; /* Adjust the size as needed */
+    border-radius: 50%; /* Optional: Make the logo round */
+    margin-right: 15px; /* Space between logo and text */
+  }
+  
+  .text-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .channel-name {
+    margin: 0;
+    font-size: 1.5em; /* Adjust as needed */
+  }
+  
+  .channel-description {
+    margin: 0;
+    font-size: 1em; /* Adjust as needed */
+    color: #555; /* Optional: Change the color as needed */
+  }
