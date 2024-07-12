@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: navy;
+    color: white;
+    padding: 15px;
+}
+li,h1,ul{
+    display: inline;
+}
+.qc{
+    display: block;
+}
+ul{
+    margin-left: 60%;
+    word-spacing: 50px;
+}
+li{
+    cursor: pointer;
+}
+li:hover{
+    color: orange;
+}
+.btn-1{
+    margin-left: 1500px;
+    margin-top: 20px;
+    padding:15px 28px;
+    background-color: orangered;
+    color: white;
+    border: 2px solid black;
+    border-radius: 8px;
+    font-size: 18px;
+    letter-spacing: 1px;
+    font-weight: 500;
+    transition: 0.3s ease;
+    cursor: pointer;
+}
+.btn-1:hover{
+    background-color: orange;
+    color: blue;
+    border: 2px solid white;
+}
+.welcome{
+    padding: 25px;
+    background-color: orange;
+    color: white;
+}
+.home,h1,p{
+    display: inline;
+    
+ }
+ .cour-no{
+    text-align: center;
+    padding: 30px;
+}
+.box{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 220px;
+    margin: 50px;
+    background-color: white;
+    
+ }
+.our-instiue{
+    text-align: center;
+    background-color: navy;
+    color: white;
+}
+.bag{
+    margin: 80px;
+    background-color: orange;
+}
+.img{
+  position: relative;
+  width: auto;
+  height: auto;
+  border: 3px solid #73AD21;
+} 
+.qualty{
+  position: absolute;
+  bottom: 30px;
+  left: 0;
+  width: 500px;
+  height: 100px;
+  padding: 30px;
+}
+

@@ -193,14 +193,14 @@ span{
 }
 .contact-form form .input-box input,
 .contact-form form textarea{
-    width: 100px;
+    width: 100%;
     padding: 1.5em;
     font-size: 18px;
     color: black;
     background: rgb(241,241,241);
     border-radius: .8rem;
     margin: 1rem 0;
-    resize: none;
+   
 }
 .footer{
     position: relative;
@@ -209,7 +209,7 @@ span{
     padding: 40px 0;
     background-color:black;
 }
-.footer.social{
+.social{
     text-align: center;
     padding-bottom: 25px;
     color: white;
@@ -228,9 +228,11 @@ span{
     box-shadow: inset 0 0 10px orangered,
                       0 0 10px orangered;
     transition: 0.3s ease;
+   
+    
 }
 .footer.social a:hover{
-    transform: scale(1.2)translateY(-10px);
+    transform: translateY(-10px);
     color: orangered;
     border: 2px solid orangered;
 }
@@ -247,6 +249,7 @@ span{
     border-bottom: 3px solid transparent;
     transition: 0.3s ease;
 }
+
 .footer ul li a:hover{
     border-bottom: 3px solid orangered;
 }
