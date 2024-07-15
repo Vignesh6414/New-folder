@@ -1,0 +1,63 @@
+body{
+   
+    background: linear-gradient(to bottom, #a7cbe4c5, #9ee7b6b2);
+    border: red 5px solid;
+    margin: 500px;
+    text-align: center;
+    padding: px;
+
+}
+h3{
+    display: inline;
+    background-color: orange;
+    padding: 10px;
+    border-radius: 15px;
+}
+.main-course .table-1{
+    display: inline;
+    text-align: center;
+    background-color: aqua;
+}
+.header{
+    background-color: pink;
+    border: rgba(98, 209, 94, 0.781) 5px solid;
+}
+
+
+.main-img{
+    display: inline-block;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    padding: 50px;
+}
+.app-img{
+    display: inline-block;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    padding: 50px; 
+}
+.appetizers{
+    display: inline;
+    text-align: center;
+}
+.beve-img{
+    display: inline-block;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    padding:px;
+}
+.table{
+    font-size: 30px;
+    padding-bottom: 50px;
+    text-align: center;
+    padding-left: 250px;
+}
+#r1{
+    margin-bottom: 2500px;
+}
+td{
+    
+}
